@@ -1,0 +1,22 @@
+body {
+  background-color: lemonchiffon;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+aside {
+  float: right;
+  width: 20%;
+  margin-right: 40px;
+}
+.container {
+  float: left;
+  width: 70%;
+  margin-left: 40px;
+}
+
+.card {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
